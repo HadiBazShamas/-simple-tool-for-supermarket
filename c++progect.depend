@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\user.desktop-h8gjqib\desktop\c++progect\main.cpp
+	<iostream>
+
+1580325686 source:c:\users\user.desktop-h8gjqib\desktop\c++progect\product.cpp
+	"product.h"
+	<string>
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string>
+
+1580325686 c:\users\user.desktop-h8gjqib\desktop\c++progect\product.h
+	<string>
+
+1580325780 source:c:\users\user.desktop-h8gjqib\desktop\c++progect\inventory.cpp
+	"inventory.h"
+	"product.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1580325686 c:\users\user.desktop-h8gjqib\desktop\c++progect\inventory.h
+	<string>
+	"product.h"
+
